@@ -14,13 +14,6 @@ Muhammad Ali Jinnah was born on December 25, 1876, in Karachi, British India (no
 
 The purpose of this tribute page is to commemorate the life and legacy of Quaid-e-Azam, highlighting his vision, leadership, and commitment to the cause of Pakistan.
 
-## Features
-
-- Biography of Quaid-e-Azam
-- Key events and milestones in his life
-- Quotes by Quaid-e-Azam
-- Photo gallery
-- Links to further resources
 
 ## Technologies Used
 
