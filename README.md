@@ -26,7 +26,6 @@ The purpose of this tribute page is to commemorate the life and legacy of Quaid-
 
 - HTML5
 - CSS3
-- JavaScript (optional, if any)
 
 ## Getting Started
 
